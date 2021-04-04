@@ -2,7 +2,7 @@
 // @name         Arcade.tf Trade Redirects
 // @author       aethez
 // @grant        GM_xmlhttpRequest
-// @version      1
+// @version      1.0.0
 // @connect      arcade.tf
 // @license      MIT
 
