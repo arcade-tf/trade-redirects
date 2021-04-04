@@ -6,4 +6,4 @@ Clicking these links will redirect you to our web page where (if you have used t
 [here](https://github.com/arcade-tf/trade-redirects/raw/main/redirect.user.js)
 
 ## Credits
-Inpsiriation and some of the jquery was taken from manic [mninc](https://github.com/mninc)
+Inspiriation and some of the jquery was taken from manic [mninc](https://github.com/mninc)
