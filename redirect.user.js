@@ -8,7 +8,7 @@
 
 // @homepageURL     https://github.com/arcade-tf/trade-redirects
 // @supportURL      https://github.com/arcade-tf/trade-redirects/issues
-// @downloadURL     https://github.com/arcade-tf/raw/main/redirect.js
+// @downloadURL     https://github.com/arcade-tf/trade-redirects/raw/main/redirect.user.js
 
 // @run-at       document-end
 // @include      /^https?:\/\/backpack\.tf\/.*
